@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "파이썬코딩테스트_게시판", "파이썬코딩테스트_게시판\파이썬코딩테스트_게시판.pyproj", "{B2FC5199-1F77-4C69-AE9E-B6DA09DE0A1B}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "기초 파이썬코딩테스트_도화지 숫자", "파이썬코딩테스트_게시판\기초 파이썬코딩테스트_도화지 숫자.pyproj", "{B2FC5199-1F77-4C69-AE9E-B6DA09DE0A1B}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "코딩테스트_리스트_총합", "코딩테스트_리스트_총합\코딩테스트_리스트_총합.pyproj", "{5014CC7C-31D8-436F-8E5F-B016FD69BBAA}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "기초 코딩테스트_리스트_총합", "코딩테스트_리스트_총합\기초 코딩테스트_리스트_총합.pyproj", "{5014CC7C-31D8-436F-8E5F-B016FD69BBAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

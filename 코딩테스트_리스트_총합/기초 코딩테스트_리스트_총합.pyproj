@@ -2,15 +2,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b2fc5199-1f77-4c69-ae9e-b6da09de0a1b</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>파이썬코딩테스트_게시판.py</StartupFile>
+    <ProjectGuid>5014cc7c-31d8-436f-8e5f-b016fd69bbaa</ProjectGuid>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>리스트 총합.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>파이썬코딩테스트_게시판</Name>
-    <RootNamespace>파이썬코딩테스트_게시판</RootNamespace>
+    <Name>기초 코딩테스트_리스트_총합</Name>
+    <RootNamespace>코딩테스트_리스트_총합</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="파이썬코딩테스트_게시판.py" />
+    <Compile Include="리스트 총합.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
